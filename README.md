@@ -1,3 +1,4 @@
+![logo](https://github.com/75-shahwaiz-kay/75-shahwaiz-kay/blob/main/Beige%20Grey%20Vlogger%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shahwaiz Ali</h1>
 <h3 align="center">An Ai Enthusiast With Keen Interest in ML & DL</h3>
 
